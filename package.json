@@ -20,7 +20,7 @@
     "authing-js-sdk": "^4.23.35",
     "axios": "^0.27.2",
     "dayjs": "^1.8.31",
-    "element-plus": "^2.2.9",
+    "element-plus": "^2.11.0",
     "lodash": "^4.17.21",
     "opendesign": "./opendesign",
     "pinia": "^2.0.13",
