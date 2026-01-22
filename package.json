@@ -21,7 +21,7 @@
     "axios": "^0.27.2",
     "dayjs": "^1.8.31",
     "element-plus": "^2.2.9",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "opendesign": "./opendesign",
     "pinia": "^2.0.13",
     "markdown-it": "^12.3.2",
